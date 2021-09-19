@@ -44,3 +44,4 @@ Class diagram <br/><br/>
 <br/>
 
 State diagram for class Travel
+<img src="img/state_travel.PNG" width=700>

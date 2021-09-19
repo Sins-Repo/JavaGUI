@@ -182,7 +182,7 @@ public class Travel extends JFrame {
 
 		//SOUTH border
 		bottom = new JPanel(new FlowLayout());						//JPanel named bottom created, having FlowLayout
-		footer = new JLabel("TOP 2121 ",SwingConstants.CENTER);		//Set JLabel named footer with text TOP 2121, align it to the center
+		footer = new JLabel("GUI",SwingConstants.CENTER);				//Set JLabel named footer with text, align it to the center
 		bottom.add(footer);											//Add footer to JPanel bottom
 
 		// Add panels to container

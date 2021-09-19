@@ -32,7 +32,7 @@ PS: A special gratitude to someone sharing useful notes [yet another insignifica
 <br/>
 
 ```
-Project Directory
+src
  |__ Audio
  |__ Files
  |__ Icons

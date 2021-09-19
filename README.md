@@ -34,18 +34,8 @@ PS: A special gratitude to someone sharing useful notes [yet another insignifica
 <br/>
 
 # Sample Output
-Main page <br/><br/>
-<img src="img/sample.PNG" height=300>
-
-<br/>
-
-Attraction guide <br/><br/>
-<img src="img/sample2.PNG" width=400>
-
-<br/>
-
-Subscription page <br/><br/>
-<img src="img/sample3.PNG" height=300>
+Main page, attraction guide, subscription page <br/><br/>
+<img src="img/sample_output.png" >
 
 <br/>
 <br/>

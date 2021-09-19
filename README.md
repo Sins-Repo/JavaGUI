@@ -38,6 +38,11 @@ Main page <br/><br/>
 <img src="img/sample.PNG" height=400>
 
 <br/>
+
+Attraction guide <br/><br/>
+<img src="img/sample2.PNG" >
+
+<br/>
 <br/>
 
 # Diagrams

@@ -35,7 +35,7 @@ PS: A special gratitude to someone sharing useful notes [yet another insignifica
 
 # Sample Output
 Main page <br/><br/>
-<img src="img/sample.PNG" >
+<img src="img/sample.PNG" height=400>
 
 <br/>
 <br/>

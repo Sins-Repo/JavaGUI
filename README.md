@@ -32,3 +32,6 @@ PS: A special gratitude to someone sharing useful notes [yet another insignifica
 <br/>
 <br/>
 
+# Diagrams
+Use case diagram <br/> <br/>
+<img src="img/usecase.PNG">

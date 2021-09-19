@@ -35,12 +35,17 @@ PS: A special gratitude to someone sharing useful notes [yet another insignifica
 
 # Sample Output
 Main page <br/><br/>
-<img src="img/sample.PNG" height=400>
+<img src="img/sample.PNG" height=300>
 
 <br/>
 
 Attraction guide <br/><br/>
-<img src="img/sample2.PNG" >
+<img src="img/sample2.PNG" width=400>
+
+<br/>
+
+Subscription page <br/><br/>
+<img src="img/sample3.PNG" height=300>
 
 <br/>
 <br/>

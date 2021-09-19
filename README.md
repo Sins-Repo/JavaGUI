@@ -64,6 +64,6 @@ State diagram for class BtnListener <br/><br/>
 
 <br/>
 
-State diagram for class subscription <br/><br/>
+State diagram for class Subscription <br/><br/>
 <img src="img/state_subscription.PNG" width=400>
 

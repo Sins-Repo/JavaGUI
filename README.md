@@ -55,21 +55,7 @@ State diagram for class Travel <br/><br/>
 
 <br/>
 
-State diagram for class Travel$1 <br/><br/>
-<img src="img/state_travel1.PNG" width=400>
+State diagram for (a) Travel$1 (b) Converter (c) BtnListener (d) Subscription <br/><br/>
+<img src="img/states.png" >
 
-<br/>
-
-State diagram for class Converter <br/><br/>
-<img src="img/state_converter.PNG" width=400>
-
-<br/>
-
-State diagram for class BtnListener <br/><br/>
-<img src="img/state_btnlistener.PNG" width=400>
-
-<br/>
-
-State diagram for class Subscription <br/><br/>
-<img src="img/state_subscription.PNG" width=400>
 

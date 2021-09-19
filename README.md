@@ -43,5 +43,10 @@ Class diagram <br/><br/>
 
 <br/>
 
-State diagram for class Travel
+State diagram for class Travel <br/><br/>
 <img src="img/state_travel.PNG" width=700>
+
+<br/>
+
+State diagram for class Travel$1 <br/><br/>
+<img src="img/state_travel1.PNG" width=500>

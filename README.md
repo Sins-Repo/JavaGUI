@@ -11,6 +11,7 @@ PS: A special gratitude to someone sharing useful notes [yet another insignifica
 * Swing & AWT
 * JFrame/Frame
 * Exception handling
+* File handling
 * Content
   * Food guide
   * Attraction guide

@@ -29,6 +29,16 @@ PS: A special gratitude to someone sharing useful notes [yet another insignifica
 3. To compile the code, run `javac Travel.java`
 4. The program is compiled beforehand, run `java Travel` straight away
 
+Project Directory
+```
+ |__ Audio
+ |__ Files
+ |__ Icons
+ |__ Images
+ |__ Travel.java
+ |__ Subscription.java
+```
+
 <br/>
 <br/>
 

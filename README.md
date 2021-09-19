@@ -60,3 +60,9 @@ State diagram for class Converter <br/><br/>
 
 State diagram for class BtnListener <br/><br/>
 <img src="img/state_btnlistener.PNG" width=500>
+
+<br/>
+
+State diagram for class subscription <br/><br/>
+<img src="img/state_subscription.PNG" width=500>
+

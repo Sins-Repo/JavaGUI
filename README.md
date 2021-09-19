@@ -40,30 +40,30 @@ Use case diagram <br/> <br/>
 <br/>
 
 Class diagram <br/><br/>
-<img src="img/class.PNG" width=700>
+<img src="img/class.PNG" width=600>
 
 <br/>
 
 State diagram for class Travel <br/><br/>
-<img src="img/state_travel.PNG" width=700>
+<img src="img/state_travel.PNG" width=600>
 
 <br/>
 
 State diagram for class Travel$1 <br/><br/>
-<img src="img/state_travel1.PNG" width=500>
+<img src="img/state_travel1.PNG" width=400>
 
 <br/>
 
 State diagram for class Converter <br/><br/>
-<img src="img/state_converter.PNG" width=500>
+<img src="img/state_converter.PNG" width=400>
 
 <br/>
 
 State diagram for class BtnListener <br/><br/>
-<img src="img/state_btnlistener.PNG" width=500>
+<img src="img/state_btnlistener.PNG" width=400>
 
 <br/>
 
 State diagram for class subscription <br/><br/>
-<img src="img/state_subscription.PNG" width=500>
+<img src="img/state_subscription.PNG" width=400>
 

@@ -35,3 +35,8 @@ PS: A special gratitude to someone sharing useful notes [yet another insignifica
 # Diagrams
 Use case diagram <br/> <br/>
 <img src="img/usecase.PNG" width=400>
+
+<br/>
+
+Class diagram <br/><br/>
+<img src="img/class.PNG" width=500>

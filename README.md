@@ -25,10 +25,9 @@ PS: A special gratitude to someone sharing useful notes [yet another insignifica
 
 # How to run
 1. Clone the repo
-2. Go to the terminal
-3. `cd <project directory>`
-4. To compile the code, run `javac Travel.java`
-5. The program is compiled beforehand, run `java Travel` straight away
+2. `cd <project directory>`
+3. To compile the code, run `javac Travel.java`
+4. The program is compiled beforehand, run `java Travel` straight away
 
 <br/>
 <br/>

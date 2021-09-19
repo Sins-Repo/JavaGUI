@@ -55,3 +55,8 @@ State diagram for class Travel$1 <br/><br/>
 
 State diagram for class Converter <br/><br/>
 <img src="img/state_converter.PNG" width=500>
+
+<br/>
+
+State diagram for class BtnListener <br/><br/>
+<img src="img/state_btnlistener.PNG" width=500>

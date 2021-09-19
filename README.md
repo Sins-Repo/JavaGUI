@@ -39,4 +39,8 @@ Use case diagram <br/> <br/>
 <br/>
 
 Class diagram <br/><br/>
-<img src="img/class.PNG" width=500>
+<img src="img/class.PNG" width=700>
+
+<br/>
+
+State diagram for class Travel

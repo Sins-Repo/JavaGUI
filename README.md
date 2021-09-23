@@ -16,7 +16,7 @@ PS: A special gratitude to someone sharing useful notes [yet another insignifica
   * Food guide
   * Attraction guide
   * Time zone 
-  * Currency conversion (MYR to JPY) 
+  * Currency conversion: MYR to JPY (Based on the exchange rate of year 2020)
   * Free subscription
 
 

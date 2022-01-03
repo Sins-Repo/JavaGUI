@@ -252,6 +252,7 @@ public class Travel extends JFrame {
 		@Override
 		public void actionPerformed(ActionEvent evt){
 			// Determine which button fired the event
+			/* ---------------- THE FOLLOWING CODE TO BE CLEANED ----------------- */
 			if(evt.getSource()==name[0]){													//If JButton name[0] fired the event
 					textcol = new JPanel(new GridLayout(4,2));								//Construct JPanel having GridLayout 4 rows 2 columns						
 					pic = new ImageIcon(this.getClass().getResource("Images/kyoto.png"));	//Construct ImageIcon, retrieve the png image based on the path directory given
